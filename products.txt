@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Ubik",
+    "price": 1950,
+    "thumbnail": "https://avatar.amuniversal.com/user_avatars/avatars_gocomicsver3/1455000/1455148/Ubik.jpg",
+    "id": 1
+  },
+  {
+    "title": "American Gods",
+    "price": 2450,
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/91cYe-0J5XL.jpg",
+    "id": 2
+  },
+  {
+    "title": "House of Leaves",
+    "price": 1200,
+    "thumbnail": "http://prodimage.images-bn.com/pimages/9780375703768_p0_v2_s1200x630.jpg",
+    "id": 3
+  }
+]
